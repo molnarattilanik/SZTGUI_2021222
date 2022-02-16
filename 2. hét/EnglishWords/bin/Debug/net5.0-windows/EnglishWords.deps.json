@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EnglishWords/1.0.0": {
+        "runtime": {
+          "EnglishWords.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EnglishWords/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

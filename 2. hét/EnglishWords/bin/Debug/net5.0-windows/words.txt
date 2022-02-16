@@ -1,0 +1,16 @@
+﻿macska:cat
+kutya:dog
+nyúl:rabbit
+ló:horse
+disznó:pig
+farkas:wolf
+ablak:window
+asztal:board
+szék:chair
+ajtó:door
+játék:game
+szülő:parent
+gyerek:kid
+süti:cookie
+egér:mouse
+billentyűzet:keyboard
