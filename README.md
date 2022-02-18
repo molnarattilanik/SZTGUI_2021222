@@ -2,18 +2,28 @@
 
 Az adott github repo az SZTGUI tárgy 2021/22/2 félév órai kódjait és tárgyi követelményeit tartalmazza.
 
+# Követelmények
+
+- 1 db ZH >= 50%, ~9. hét, témakör: WPF
+- 2 db házi feladat
+- 1 db Féléves feladat
+
+Aki nem írja meg vagy nem sikerül a ZH-t elégséges szintre teljesítenie, az pótolható illetve javítható a 13. héten!
+
+
+
 # Féléves házi feladat
 
 A HFT tárgyból írt apihoz 2 darab kliens készítése. Repository-hoz a [molnarattilanik] felhasználót hozzá kell adni.
 
 WPF kliens:
 
-- Repository neve: ***ABC111_HFT_2021221.WPFClient***
+- Repository neve: **ABC111_HFT_2021221.WPFClient**
 - Rétegződés (UI + VM + Logic + Restservice commandok)
 
 JS kliens: 
 
-- Repository neve: ***ABC111_HFT_2021221.JSClient***
+- Repository neve: **ABC111_HFT_2021221.JSClient**
 - index.html, index.css, index.js
 
 
@@ -24,7 +34,7 @@ JS kliens:
 Általánosságok:
  
  - Repository helye: [BProf-SZTGUI organisation]
- - Repository neve: ***AAA111_GUI_2021222*** ahol a neptunkód a csapatkapitány neptunkódja
+ - Repository neve: **AAA111_GUI_2021222** ahol a neptunkód a csapatkapitány neptunkódja
 
  # Kapcsolattartás
 Teams csoport

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xNn7xcGRZ0RDb70BxsErbDcPHoPnkDI3GH6gSOs73uuCOFaj9O44dBqUN4OSMGUk7XzYGsuJhMHUVXTjT47qzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\1.hét\\PizzaOrder\\PizzaOrder\\PizzaOrder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Attila\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
