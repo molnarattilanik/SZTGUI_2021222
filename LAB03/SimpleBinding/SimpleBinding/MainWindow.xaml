@@ -1,0 +1,41 @@
+﻿<Window x:Class="SimpleBinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimpleBinding"
+        xmlns:System="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="9*"/>
+        </Grid.RowDefinitions>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+            </Grid.ColumnDefinitions>
+            <Slider x:Name="slider_fontsize" VerticalAlignment="Center" Minimum="8" Maximum="100" IsSnapToTickEnabled="True"/>
+            <ComboBox Grid.Column="1" x:Name="combobox_fontfamily" SelectedIndex="0" VerticalContentAlignment="Center">
+                <System:String>Arial</System:String>
+                <System:String>Consolas</System:String>
+                <System:String>Times New Roman</System:String>
+            </ComboBox>
+            <ComboBox Grid.Column="2" x:Name="combobox_color" SelectedIndex="0" VerticalContentAlignment="Center">
+                <System:String>Red</System:String>
+                <System:String>Green</System:String>
+                <System:String>Blue</System:String>
+            </ComboBox>
+        </Grid>
+        <TextBox Grid.Row="1" 
+                 TextWrapping="Wrap"
+                 AcceptsReturn="True"  
+                 FontSize="{Binding ElementName=slider_fontsize, Path=Value}" 
+                 FontFamily="{Binding ElementName=combobox_fontfamily, Path=SelectedItem}" 
+                 Foreground="{Binding ElementName=combobox_color, Path=SelectedItem}" 
+                 Text="alma"/>
+    </Grid>
+</Window>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBinding", "SimpleBinding\SimpleBinding.csproj", "{F7F973B7-29DA-4E95-9312-7EB7D4D1D16A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniEditor", "MiniEditor\MiniEditor.csproj", "{AA0AC1F9-D876-4064-9DA6-47E0B3BF346A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7F973B7-29DA-4E95-9312-7EB7D4D1D16A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F973B7-29DA-4E95-9312-7EB7D4D1D16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F973B7-29DA-4E95-9312-7EB7D4D1D16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F973B7-29DA-4E95-9312-7EB7D4D1D16A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA0AC1F9-D876-4064-9DA6-47E0B3BF346A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA0AC1F9-D876-4064-9DA6-47E0B3BF346A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA0AC1F9-D876-4064-9DA6-47E0B3BF346A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA0AC1F9-D876-4064-9DA6-47E0B3BF346A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5426197-1D64-454F-A25D-4EEFA2A1B8AB}
+	EndGlobalSection
+EndGlobal

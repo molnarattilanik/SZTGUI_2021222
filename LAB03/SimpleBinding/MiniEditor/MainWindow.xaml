@@ -1,0 +1,47 @@
+﻿<Window x:Class="MiniEditor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MiniEditor"
+        mc:Ignorable="d"
+        Title="Mini Editor" Height="450" Width="800">
+    <Window.Resources>
+        <local:GlassToBoolConverter x:Key="boolConverter" />
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0" DataContext="{Binding ElementName=listBox, Path=SelectedItem}">
+            <Label Content="Név" Background="LightBlue" Padding="10" />
+            <TextBox Text="{Binding Name, UpdateSourceTrigger=PropertyChanged}" Padding="10" />
+            <Label Content="Életkor" Background="LightBlue" Padding="10" />
+            <TextBox Text="{Binding Age, UpdateSourceTrigger=PropertyChanged}" Padding="10" />
+            <Label Content="Szemüveges?" Background="LightBlue" Padding="10" />
+            <CheckBox Content="Igen" 
+                      IsChecked="{Binding HaveGlasses, Converter = {StaticResource boolConverter}}"
+                      Margin="10" />
+            <Label Content="Szemüveg váltás" Background="LightBlue" Padding="10" />
+            <Button Content="Váltás" Padding="10" Click="Button_Click" />
+            
+            <Label Content="Műveletek" Background="LightBlue" Padding="10" />
+            <Button Content="Új személy" Padding="10" Click="Button_Click_1"  />
+        </StackPanel>
+        <ListBox Grid.Column="1" x:Name="listBox" HorizontalContentAlignment="Stretch">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Border BorderBrush="Black" BorderThickness="1">
+                        <StackPanel >
+                            <Label Content="{Binding Name}" ContentStringFormat="Név: {0}" />
+                            <Label Content="{Binding Age}" ContentStringFormat="Életkor: {0}" />
+                            <Label Content="{Binding HaveGlasses}" ContentStringFormat="Szemüveges: {0}"  />
+                        </StackPanel>
+                    </Border>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        
+    </Grid>
+</Window>
