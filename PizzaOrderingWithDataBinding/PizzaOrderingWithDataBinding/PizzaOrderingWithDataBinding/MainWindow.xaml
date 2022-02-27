@@ -1,0 +1,46 @@
+﻿<Window x:Class="PizzaOrderingWithDataBinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PizzaOrderingWithDataBinding"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Closing="Window_Closing">
+    <Window.Resources>
+        <local:PizzaBaseToBoolConverter x:Key="pizzaBaseConverter" />
+    </Window.Resources>
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        
+        <StackPanel Grid.Column="0" DataContext="{Binding ElementName=orders_listBox, Path=SelectedItem}">
+            <Label Content="Megrendelő" Background="LightSkyBlue"></Label>
+            <TextBox x:Name="personName_textBox" Text="{Binding PersonName, UpdateSourceTrigger=PropertyChanged}" Padding="10"></TextBox>
+            <Label Content="Pizza Neve" Background="LightSkyBlue"></Label>
+            <ComboBox x:Name="pizzaName" Padding="10" SelectedItem="{Binding PizzaName}" FontSize="10"></ComboBox>
+            
+            <Label Content="Alap" Background="LightSkyBlue"></Label>
+            <CheckBox Content="Paradicsomos" IsChecked="{Binding IsTomato, Converter={StaticResource pizzaBaseConverter}}" Margin="10"/>
+            <Label Content="Alap Váltás" Background="LightSkyBlue"></Label>
+            <Button Content="Alap váltás" Click="Button_Click" Padding="10"/>
+            <Label Content="Új rendelés felvétel" Background="LightSkyBlue"></Label>
+            <Button x:Name="order_btn" Content="Új Rendelés" Padding="10" Click="order_btn_Click" />
+        </StackPanel>
+
+        <ListBox x:Name="orders_listBox" Grid.Column="1">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <Label Content="{Binding PersonName}" ContentStringFormat="Név: {0}"/>
+                        <Label Content="{Binding PizzaName}" ContentStringFormat="Pizzafajtája: {0}"/>
+                        <Label Content="{Binding IsTomato}" ContentStringFormat="Alap: {0}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        
+    </Grid>
+</Window>
