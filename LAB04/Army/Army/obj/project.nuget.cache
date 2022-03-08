@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T3IfsS5iVHIFfJk/uMwjipvryfx2/9/bxbrBP5oiVsogCq2gOJCuC9tNIKe/crLaiwrlEpOHDNf6sxPe4kYHQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Attila\\source\\repos\\Army\\Army\\Army.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Attila\\.nuget\\packages\\microsoft.toolkit.mvvm\\7.1.2\\microsoft.toolkit.mvvm.7.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

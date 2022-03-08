@@ -29,12 +29,29 @@ JS kliens:
 
 # Féléves beadandó feladat
 
-3 fős csoportokban egy WPF-es játékot kell készítenie a hallgatóknak. Részletes leírás később
+Cél
 
-Általánosságok:
- 
- - Repository helye: [BProf-SZTGUI organisation]
- - Repository neve: **AAA111_GUI_2021222** ahol a neptunkód a csapatkapitány neptunkódja
+A hallgatóknak egy játékot kell fejleszteniük WPF-ben a tanult technikák (FrameworkElement) segítségével! A csapatokat 3 fő alkotja, melyeket a laborvezető határoz meg és a tagoknak egy kurzushoz kell tartozniuk. 
+A játékot GIT verziókövető rendszer segítségével kell elkészíteni és a github.com oldalon hostolni.
+ A repository neve: **GUI_20212202_ABC123**, ahol az ABC123 helyére a csapatkapitány neptun kódját kell írni. 
+
+A repository-ba fel kell venni az [oenikprog] felhasználót collaboratorként és a gyakorlatvezető tanár saját github accountját is!
+Laborvezető github accountja: [molnarattilanik]
+A repository-n belül a solution és a projektek névválasztása tetszőleges. 
+A feladatnál cél több branchet használni és a feladatokat jól szétosztani. Minden csapattagnak kell a repository-ba commitolni és pusholni. A végső megoldásnak a master branchen kell lennie.
+A játékot az utolsó gyakorlaton demózni kell.
+
+Pótlás
+
+Ahogy a tantárgyi követelményekben is olvasható, a 14. heti laboralkalmon kötelező bemutatni a játékot. Hogyha hiányosság van benne vagy az oktató nem fogadja el megfelelő minőségűnek, a 14. hét végéig különeljárási díjért javítható.
+
+Mérföldkövek
+1.	Játék címe, leírása, egyszerűbb látványtervek 3 oldalban (8. heti laboralkalomig)
+a.	github repository része legyen ***spec.pdf*** néven
+2.	Demonstráció (14. heti laboron)
+3.	2 perces bemutatóvideó csak a játék működéséről hang alapú narrációval (14. heti laboralkalomig)
+a.	Ezt minden csapatnak a moodlebe kell feltöltenie az előadáshoz  verseny miatt
+
 
  # Kapcsolattartás
 Teams csoport
@@ -53,4 +70,7 @@ Szoftvertervezés és -fejlesztés Intézet
 
 [//]: #
 [BProf-SZTGUI organisation]: <https://github.com/BProf-SZTGUI>
+[molnarattilanik]: <https://github.com/molnarattilanik>
+[oenikprog]: <https://github.com/oenikprog>
+
 
