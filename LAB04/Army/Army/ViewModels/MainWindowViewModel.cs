@@ -11,7 +11,7 @@ using System.Windows.Input;
 
 namespace Army.ViewModels
 {
-    public class MainViewModel : ObservableRecipient
+    public class MainWindowViewModel : ObservableRecipient
     {
         public ObservableCollection<Trooper> Barrack { get; set; }
         public ObservableCollection<Trooper> Army { get; set; }
@@ -68,7 +68,7 @@ namespace Army.ViewModels
             }
         }
 
-        public MainViewModel()
+        public MainWindowViewModel()
         {
             Barrack = new ObservableCollection<Trooper>();
             Army = new ObservableCollection<Trooper>();
