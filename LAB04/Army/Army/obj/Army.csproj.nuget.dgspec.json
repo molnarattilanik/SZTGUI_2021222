@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Attila\\source\\repos\\Army\\Army\\Army.csproj": {}
+    "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB04\\Army\\Army\\Army.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Attila\\source\\repos\\Army\\Army\\Army.csproj": {
+    "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB04\\Army\\Army\\Army.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Attila\\source\\repos\\Army\\Army\\Army.csproj",
+        "projectUniqueName": "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB04\\Army\\Army\\Army.csproj",
         "projectName": "Army",
-        "projectPath": "C:\\Users\\Attila\\source\\repos\\Army\\Army\\Army.csproj",
+        "projectPath": "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB04\\Army\\Army\\Army.csproj",
         "packagesPath": "C:\\Users\\Attila\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Attila\\source\\repos\\Army\\Army\\obj\\",
+        "outputPath": "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB04\\Army\\Army\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

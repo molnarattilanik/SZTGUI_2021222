@@ -75,31 +75,31 @@ namespace Army.ViewModels
 
             Barrack.Add(new Trooper()
             {
-                Type = "gyalogos",
+                Type = "marine",
                 Power = 10,
                 Speed = 5,
             });
             Barrack.Add(new Trooper()
             {
-                Type = "gyalogos",
+                Type = "pilot",
                 Power = 11,
                 Speed = 2,
             });
             Barrack.Add(new Trooper()
             {
-                Type = "gyalogos",
+                Type = "sniper",
                 Power = 5,
                 Speed = 5,
             });
             Barrack.Add(new Trooper()
             {
-                Type = "gyalogos",
+                Type = "tank",
                 Power = 6,
                 Speed = 1,
             });
             Barrack.Add(new Trooper()
             {
-                Type = "gyalogos",
+                Type = "dron",
                 Power = 6,
                 Speed = 1,
             });
