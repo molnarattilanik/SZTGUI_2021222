@@ -56,7 +56,7 @@
             </ListBox.ItemTemplate>
         </ListBox>
         <StackPanel Grid.Column="1">
-            <Label HorizontalAlignment="Center" FontSize="14" Content="540" ContentStringFormat="Cost {0}$" />
+            <Label HorizontalAlignment="Center" FontSize="14" Content="{Binding AllCost}" ContentStringFormat="Cost {0}$" />
             <Button Content="Add To Army" 
                     Command="{Binding AddToArmyCommand}"
                     Margin="10" Padding="10" />

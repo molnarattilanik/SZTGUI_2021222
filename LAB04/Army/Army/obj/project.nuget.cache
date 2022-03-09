@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "UFhbbDtW6ySEL+iah6EHDvshBtx7gLxYuBqdNyG84slGR+hMnplEZhKdKKMsbInZ5JkdHskKqfHPFjJAOz6KrQ==",
+  "dgSpecHash": "Q3yAKjfUrYlHVhUf4hcspY1J2qP7LWhbShXxYyggOfuhkovcUK9hcI1a54d9c/dzxuQuvYgvbPTHfNz72ydfSA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB04\\Army\\Army\\Army.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Attila\\.nuget\\packages\\microsoft.toolkit.mvvm\\7.1.2\\microsoft.toolkit.mvvm.7.1.2.nupkg.sha512"
+    "C:\\Users\\Attila\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Attila\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Attila\\.nuget\\packages\\microsoft.toolkit.mvvm\\7.1.2\\microsoft.toolkit.mvvm.7.1.2.nupkg.sha512",
+    "C:\\Users\\Attila\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

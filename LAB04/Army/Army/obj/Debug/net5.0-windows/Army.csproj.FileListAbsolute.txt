@@ -46,3 +46,9 @@ C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB04\Army\Army\obj\Debug\net5.0
 C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB04\Army\Army\obj\Debug\net5.0-windows\ref\Army.dll
 C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB04\Army\Army\obj\Debug\net5.0-windows\Army.pdb
 C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB04\Army\Army\obj\Debug\net5.0-windows\Army.genruntimeconfig.cache
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB04\Army\Army\obj\Debug\net5.0-windows\Army.csprojAssemblyReference.cache
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB04\Army\Army\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB04\Army\Army\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB04\Army\Army\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB04\Army\Army\obj\Debug\net5.0-windows\TrooperEditorWindow.g.cs
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB04\Army\Army\obj\Debug\net5.0-windows\TrooperEditorWindow.baml
