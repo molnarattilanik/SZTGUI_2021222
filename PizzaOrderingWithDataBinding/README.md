@@ -12,7 +12,7 @@ Változások:
 
 ---
 
-# Kulcs pontok
+# Kulcspontok
 
 Problémák az adatkötésnél
 
