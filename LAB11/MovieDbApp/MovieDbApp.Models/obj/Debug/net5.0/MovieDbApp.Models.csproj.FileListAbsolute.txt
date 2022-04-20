@@ -1,0 +1,12 @@
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Models\bin\Debug\net5.0\MovieDbApp.Models.deps.json
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Models\bin\Debug\net5.0\MovieDbApp.Models.dll
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Models\bin\Debug\net5.0\ref\MovieDbApp.Models.dll
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Models\bin\Debug\net5.0\MovieDbApp.Models.pdb
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Models\obj\Debug\net5.0\MovieDbApp.Models.csprojAssemblyReference.cache
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Models\obj\Debug\net5.0\MovieDbApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Models\obj\Debug\net5.0\MovieDbApp.Models.AssemblyInfoInputs.cache
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Models\obj\Debug\net5.0\MovieDbApp.Models.AssemblyInfo.cs
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Models\obj\Debug\net5.0\MovieDbApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Models\obj\Debug\net5.0\MovieDbApp.Models.dll
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Models\obj\Debug\net5.0\ref\MovieDbApp.Models.dll
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Models\obj\Debug\net5.0\MovieDbApp.Models.pdb

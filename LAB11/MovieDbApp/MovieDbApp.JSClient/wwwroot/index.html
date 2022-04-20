@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Js Client</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <h1>Actor Page</h1>
+
+    <div id="actorForm">
+        <label>Actor Name</label>
+        <input type="text" id="actorname" />
+        <button type="button" onclick="create();">Add Actor</button>
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody id="resultarea">
+        </tbody>
+    </table>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/6.0.1/signalr.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

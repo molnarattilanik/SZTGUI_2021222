@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+}
+
+#todoform{
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    margin: 20;
+    width: 25%;
+    margin-bottom: 40px;
+}
+
+#todoform input, label, button{
+    margin: 5px;
+}
+
+#display{
+    text-align: center;
+    width: 75%;
+    display: flex;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.inline{
+    float: left;
+}

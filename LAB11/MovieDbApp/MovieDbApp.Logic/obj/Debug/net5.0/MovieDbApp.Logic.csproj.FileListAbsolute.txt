@@ -1,0 +1,17 @@
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Logic\bin\Debug\net5.0\MovieDbApp.Logic.deps.json
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Logic\bin\Debug\net5.0\MovieDbApp.Logic.dll
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Logic\bin\Debug\net5.0\ref\MovieDbApp.Logic.dll
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Logic\bin\Debug\net5.0\MovieDbApp.Logic.pdb
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Logic\bin\Debug\net5.0\MovieDbApp.Models.dll
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Logic\bin\Debug\net5.0\MovieDbApp.Repository.dll
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Logic\bin\Debug\net5.0\MovieDbApp.Models.pdb
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Logic\bin\Debug\net5.0\MovieDbApp.Repository.pdb
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Logic\obj\Debug\net5.0\MovieDbApp.Logic.csprojAssemblyReference.cache
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Logic\obj\Debug\net5.0\MovieDbApp.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Logic\obj\Debug\net5.0\MovieDbApp.Logic.AssemblyInfoInputs.cache
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Logic\obj\Debug\net5.0\MovieDbApp.Logic.AssemblyInfo.cs
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Logic\obj\Debug\net5.0\MovieDbApp.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Logic\obj\Debug\net5.0\MovieDbApp.Logic.csproj.CopyComplete
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Logic\obj\Debug\net5.0\MovieDbApp.Logic.dll
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Logic\obj\Debug\net5.0\ref\MovieDbApp.Logic.dll
+C:\Users\Attila\Documents\GitHub\SZTGUI_2021222\LAB11\MovieDbApp\MovieDbApp.Logic\obj\Debug\net5.0\MovieDbApp.Logic.pdb

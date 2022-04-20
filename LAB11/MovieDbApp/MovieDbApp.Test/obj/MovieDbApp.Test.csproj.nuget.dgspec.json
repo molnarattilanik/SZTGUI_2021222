@@ -1,0 +1,307 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Test\\MovieDbApp.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Logic\\MovieDbApp.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Logic\\MovieDbApp.Logic.csproj",
+        "projectName": "MovieDbApp.Logic",
+        "projectPath": "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Logic\\MovieDbApp.Logic.csproj",
+        "packagesPath": "C:\\Users\\Attila\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Attila\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.cloudsmith.io/orchardcore/preview/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Models\\MovieDbApp.Models.csproj": {
+                "projectPath": "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Models\\MovieDbApp.Models.csproj"
+              },
+              "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Repository\\MovieDbApp.Repository.csproj": {
+                "projectPath": "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Repository\\MovieDbApp.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Models\\MovieDbApp.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Models\\MovieDbApp.Models.csproj",
+        "projectName": "MovieDbApp.Models",
+        "projectPath": "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Models\\MovieDbApp.Models.csproj",
+        "packagesPath": "C:\\Users\\Attila\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Attila\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.cloudsmith.io/orchardcore/preview/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Repository\\MovieDbApp.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Repository\\MovieDbApp.Repository.csproj",
+        "projectName": "MovieDbApp.Repository",
+        "projectPath": "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Repository\\MovieDbApp.Repository.csproj",
+        "packagesPath": "C:\\Users\\Attila\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Attila\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.cloudsmith.io/orchardcore/preview/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Models\\MovieDbApp.Models.csproj": {
+                "projectPath": "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Models\\MovieDbApp.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Test\\MovieDbApp.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Test\\MovieDbApp.Test.csproj",
+        "projectName": "MovieDbApp.Test",
+        "projectPath": "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Test\\MovieDbApp.Test.csproj",
+        "packagesPath": "C:\\Users\\Attila\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Attila\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.cloudsmith.io/orchardcore/preview/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Logic\\MovieDbApp.Logic.csproj": {
+                "projectPath": "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Logic\\MovieDbApp.Logic.csproj"
+              },
+              "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Models\\MovieDbApp.Models.csproj": {
+                "projectPath": "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Models\\MovieDbApp.Models.csproj"
+              },
+              "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Repository\\MovieDbApp.Repository.csproj": {
+                "projectPath": "C:\\Users\\Attila\\Documents\\GitHub\\SZTGUI_2021222\\LAB11\\MovieDbApp\\MovieDbApp.Repository\\MovieDbApp.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.17.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

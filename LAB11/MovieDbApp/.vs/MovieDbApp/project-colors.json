@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "72a0ad18-d855-442f-8503-3d4c42c829da": {
+      "ProjectGuid": "72a0ad18-d855-442f-8503-3d4c42c829da",
+      "DisplayName": "MovieDbApp.Client",
+      "ColorIndex": 0
+    },
+    "e54ebfff-d4f6-43ff-9065-2c58f20c4200": {
+      "ProjectGuid": "e54ebfff-d4f6-43ff-9065-2c58f20c4200",
+      "DisplayName": "MovieDbApp.Models",
+      "ColorIndex": 1
+    },
+    "ddbeb0e7-3f08-40d1-859f-56bc0cdfd136": {
+      "ProjectGuid": "ddbeb0e7-3f08-40d1-859f-56bc0cdfd136",
+      "DisplayName": "MovieDbApp.Repository",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "f38d76c1-5b3b-47a0-bc0e-d08f33f9dc70": {
+      "ProjectGuid": "f38d76c1-5b3b-47a0-bc0e-d08f33f9dc70",
+      "DisplayName": "MovieDbApp.Logic",
+      "ColorIndex": 3
+    },
+    "29ad6531-ef5f-47a9-86db-a048cbebe8cc": {
+      "ProjectGuid": "29ad6531-ef5f-47a9-86db-a048cbebe8cc",
+      "DisplayName": "MovieDbApp.Test",
+      "ColorIndex": 4
+    },
+    "8bedd2fc-1b86-443b-ba47-8eb642f9df4a": {
+      "ProjectGuid": "8bedd2fc-1b86-443b-ba47-8eb642f9df4a",
+      "DisplayName": "MovieDbApp.Endpoint",
+      "ColorIndex": 5
+    },
+    "5e9a5237-8d55-4709-92aa-34465385b2c3": {
+      "ProjectGuid": "5e9a5237-8d55-4709-92aa-34465385b2c3",
+      "DisplayName": "MovieDbApp.MVC",
+      "ColorIndex": 6
+    },
+    "9f72c0c4-8c13-4765-b4cd-b7037275c1c5": {
+      "ProjectGuid": "9f72c0c4-8c13-4765-b4cd-b7037275c1c5",
+      "DisplayName": "MovieDbApp.Endpoint",
+      "ColorIndex": 7
+    },
+    "6713843c-0bd2-4211-8249-fb4596f84db8": {
+      "ProjectGuid": "6713843c-0bd2-4211-8249-fb4596f84db8",
+      "DisplayName": "MovieDbApp.WpfClient",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

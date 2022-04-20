@@ -1,0 +1,30 @@
+﻿* {
+    font-size: 1.05em;
+    margin: auto auto;
+}
+
+h1 {
+    font-size: 1.50em;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#actorForm {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-bottom: 50px;
+}
+
+    #actorForm label, button, input {
+        margin: 10px;
+        padding: 10px;
+    }
+
+    #actorForm label {
+        font-weight: bold;
+    }
+
+
+body {
+}
