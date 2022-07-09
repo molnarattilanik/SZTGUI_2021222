@@ -61,7 +61,7 @@ namespace Army {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Army;V1.0.0.0;component/troopereditorwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Army;component/troopereditorwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\TrooperEditorWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

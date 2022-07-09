@@ -8,9 +8,6 @@
         xmlns:converter="clr-namespace:Army.Converters"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Window.DataContext>
-        <vm:MainWindowViewModel />
-    </Window.DataContext>
     <Window.Resources>
         <converter:NumberToColorConverter x:Key="numberToColor" />
     </Window.Resources>

@@ -1,16 +1,8 @@
 ﻿using Army.Logic;
 using Army.Models;
 using Microsoft.Toolkit.Mvvm.ComponentModel;
-using Microsoft.Toolkit.Mvvm.DependencyInjection;
 using Microsoft.Toolkit.Mvvm.Input;
-using System;
-using System.Collections.Generic;
 using System.Collections.ObjectModel;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows;
 using System.Windows.Input;
 
 namespace Army.ViewModels
@@ -71,10 +63,6 @@ namespace Army.ViewModels
             {
                 return armyLogic.AvgSpeed;
             }
-        }
-
-        public MainWindowViewModel() : this(IsInDesignMode ? null : Ioc.Default.GetService<IArmyLogic>())
-        {
         }
 
         public MainWindowViewModel(IArmyLogic armyLogic)
@@ -142,15 +130,6 @@ namespace Army.ViewModels
                 OnPropertyChanged(nameof(AvgPower));
                 OnPropertyChanged(nameof(AvgSpeed));
             });
-        }
-
-        public static bool IsInDesignMode
-        {
-            get
-            {
-                var prop = DesignerProperties.IsInDesignModeProperty;
-                return (bool)DependencyPropertyDescriptor.FromProperty(prop, typeof(FrameworkElement)).Metadata.DefaultValue;
-            }
         }
     }
 }

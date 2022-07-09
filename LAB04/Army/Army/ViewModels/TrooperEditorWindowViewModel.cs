@@ -1,9 +1,4 @@
 ﻿using Army.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Army.ViewModels
 {
@@ -15,8 +10,7 @@ namespace Army.ViewModels
         {
             Actual = trooper;
         }
-        public TrooperEditorWindowViewModel()
-        {
-        }
+
+        public TrooperEditorWindowViewModel() {}
     }
 }
